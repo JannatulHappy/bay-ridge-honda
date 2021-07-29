@@ -66,11 +66,13 @@ header{
 .fa-hourglass-end, .fa-map-marker-alt{
     color:white;
     font-size: 47px;
-    padding:24px 16px 23px 24px;
+    padding:24px 18px 23px 24px;
     text-align: center;
     border-radius: 80%;
     background-color: #d66f55;
 }
 /*content end*/
+/* app styles start */
+
 
 
